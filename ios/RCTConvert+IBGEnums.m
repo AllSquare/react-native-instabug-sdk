@@ -50,8 +50,6 @@ RCT_ENUM_CONVERTER(IBGLocale, (@{
   @"localeArabic": @(IBGLocaleArabic),
   @"localeChineseSimplified": @(IBGLocaleChineseSimplified),
   @"localeChineseTraditional": @(IBGLocaleChineseTraditional),
-  @"localeCzech": @(IBGLocaleCzech),
-  @"localeDanish": @(IBGLocaleDanish),
   @"localeEnglish": @(IBGLocaleEnglish),
   @"localeFrench": @(IBGLocaleFrench),
   @"localeGerman": @(IBGLocaleGerman),
