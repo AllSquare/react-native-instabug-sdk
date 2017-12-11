@@ -82,4 +82,9 @@ RCT_EXPORT_METHOD(resetTags) {
   };
 }
 
++ (BOOL)requiresMainQueueSetup
+{
+  return YES;
+}
+
 @end
